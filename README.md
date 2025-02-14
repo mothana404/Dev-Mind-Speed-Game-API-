@@ -51,7 +51,7 @@ NODE_ENV=development
 
 ## Running the Application
 
-1. Start XAMPP and ensure MySQL service is running
+1. Start XAMPP and ensure MySQL service is running and if you want to work in Mysql DBMS you need to change the config.json file in config folder with your username and password.
 
 2. Start the server:
 ```bash
