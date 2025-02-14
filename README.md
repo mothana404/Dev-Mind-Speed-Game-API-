@@ -55,8 +55,7 @@ NODE_ENV=development
 
 2. Start the server:
 ```bash
-SERVER_PORT=8000
-NODE_ENV=development
+nodemon server.js
 ```
 
 - The API will be available at http://localhost:8000
@@ -77,7 +76,7 @@ npm test
 
 ## Here is the API endpoints
 
-### 1. **POST [/game](http://localhost:8000/game/start)**
+### 1. **POST [/game/start](http://localhost:8000/game/start)**
 - **Description**: Creates a new game for the player.
 - **Request JSON**: 
   ```json
