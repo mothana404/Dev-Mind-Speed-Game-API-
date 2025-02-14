@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "MindSpeedGame",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false,
+    "dialectOptions": {
+        "charset": "utf8mb4"
+      }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "MindSpeedGame",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false,
+    "dialectOptions": {
+        "charset": "utf8mb4"
+      }
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "MindSpeedGame",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "logging": false,
+    "dialectOptions": {
+        "charset": "utf8mb4"
+      }
+  }
+}
