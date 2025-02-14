@@ -1,7 +1,5 @@
 # Dev-Mind-Speed-Game-API
 
-# Dev-Mind-Speed-Game-API
-
 A Node.js-based API for a mathematical speed game where players can test their calculation skills through various questions.
 
 ## Stack
