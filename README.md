@@ -81,7 +81,8 @@ npm test
 - **Request JSON**: 
   ```json
   {
-    "playerName": "player1"
+    "playerName": "player1",
+    "difficulty": 1
   }
   ```
 
